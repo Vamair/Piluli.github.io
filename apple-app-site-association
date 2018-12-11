@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5D6522D425.ru.getpharma.piluli",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
